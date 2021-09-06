@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactCalcy/static/css/main.613e8323.chunk.css",
+    "main.js": "/reactCalcy/static/js/main.e5477ea1.chunk.js",
+    "main.js.map": "/reactCalcy/static/js/main.e5477ea1.chunk.js.map",
+    "runtime-main.js": "/reactCalcy/static/js/runtime-main.9f7cd156.js",
+    "runtime-main.js.map": "/reactCalcy/static/js/runtime-main.9f7cd156.js.map",
+    "static/css/2.818011ed.chunk.css": "/reactCalcy/static/css/2.818011ed.chunk.css",
+    "static/js/2.401d17ff.chunk.js": "/reactCalcy/static/js/2.401d17ff.chunk.js",
+    "static/js/2.401d17ff.chunk.js.map": "/reactCalcy/static/js/2.401d17ff.chunk.js.map",
+    "index.html": "/reactCalcy/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/reactCalcy/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.613e8323.chunk.css.map": "/reactCalcy/static/css/main.613e8323.chunk.css.map",
+    "static/js/2.401d17ff.chunk.js.LICENSE.txt": "/reactCalcy/static/js/2.401d17ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f7cd156.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.401d17ff.chunk.js",
+    "static/css/main.613e8323.chunk.css",
+    "static/js/main.e5477ea1.chunk.js"
+  ]
+}
