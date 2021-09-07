@@ -71,3 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<br>
+I referred the repository https://github.com/rturner1989/FCC-React-Javascript-Calculator <br>
+I created the clone of this repositiry and took help from the source code as well, the backend part wasn't hard but for frontend i reffered to it's css and i loved it.
